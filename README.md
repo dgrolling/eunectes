@@ -9,3 +9,5 @@ esri/views/MapView \
 esri/geometry/Point \
 esri/Graphic \
 esri/symbols/SimpleMarkerSymbol
+
+![alt text](https://static.thenounproject.com/png/1390001-200.png)
